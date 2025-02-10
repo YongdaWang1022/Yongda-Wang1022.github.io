@@ -1,16 +1,12 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
+I am a Ph.D student at the Academy of Mathematics and Systems Science Chinese Academy of Sciences. My advisor is Professor Shifeng Xiong.
 #### Email
-sli[at]cumt.edu.cn
+wangyongda22@mails.ucas.ac.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
+Sep 2022 - Present, Ph.D in Probability and Mathematical Statistics
+School of Mathematical Sciences, University of Chinese Academy of Sciences. Advisor: Prof. Shifeng Xiong\
+Sep 2018 - Jul 2022, B.S. in Statistics School of Mathematics and Statistics, Beijing Institute of Technology University.
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+A/B testing, experiment design.
 
